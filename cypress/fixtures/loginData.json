@@ -1,0 +1,10 @@
+{
+  "name": "silvana",
+  "age": 22,
+  "gender": "woman",
+  "genderInterest": "man",
+  "email": "silvana29@gmail.com",
+  "password": "123456!",
+  "confirmPassword": "123456!",
+  "description" : "Hola, estoy interesada en conocer gente nueva"
+}
